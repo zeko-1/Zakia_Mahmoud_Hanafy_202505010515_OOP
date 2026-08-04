@@ -1,3 +1,4 @@
+package tutorial_7;
 public class Microwave extends Appliances{
 
     public Microwave(String brand){

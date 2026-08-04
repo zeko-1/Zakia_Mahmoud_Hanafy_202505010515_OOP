@@ -1,3 +1,4 @@
+package tutorial_7;
 public abstract class Appliances{
     protected String brand;
 
